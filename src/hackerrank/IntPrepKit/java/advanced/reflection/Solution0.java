@@ -1,5 +1,4 @@
 package hackerrank.IntPrepKit.java.advanced.reflection;
-;
 import com.cs.inheritance.Student;
 
 import java.lang.reflect.Method;
